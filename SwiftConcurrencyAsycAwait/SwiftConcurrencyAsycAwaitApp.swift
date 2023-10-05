@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftConcurrencyAsycAwaitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GlobalActorBootcamp()
         }
     }
 }
